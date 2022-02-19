@@ -1,1 +1,0 @@
-Hello, Welcome to my ALX project repository.
